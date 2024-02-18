@@ -1,0 +1,3 @@
+{
+  "default_choices": ["rock", "paper", "scissors"]
+}

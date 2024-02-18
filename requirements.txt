@@ -1,0 +1,1 @@
+# Requirements for the Rock Paper Scissors Game
